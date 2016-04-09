@@ -18,38 +18,16 @@ The wikipedia article found here (Links to an external site.) describes the byte
 
 * (red|green|blue)scale the colors, same as above but only multiply one of the colors.
 
-
-
-
-
 Submit a url with the final project, no need for a pull request.
 
 Rubric:
-
 Tests: 3pts
-
 Gulpfile/package.json 2pts
-
 Read Bitmap Meta Data 5pts
-
 Successfully Apply Transform 5pts
-
 Project Design 5pts
 
-
-
 Bonus Points:
-
 Can handle palette and non-palette bitmaps
-
 Can handle multiple types of bitmaps (not just BM)
-
-Handle LE and BE computers with a single if statement
-
-create a command line interface
-
-command line interface that can select the transform
-
-can handle various sized bitmaps
-
-make your command install-able on npm and use a "bin"
+Handle LE and BE computers with a single if statement create a command line interface command line interface that can select the transform can handle various sized bitmaps make your command install-able on npm and use a "bin"
